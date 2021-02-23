@@ -1,10 +1,6 @@
 # Bryan Allan
 
 ## Eae, blz? 👋
-
-<!--
-**bryanallan/bryanallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Sou Bacharel em Ciência da Computação, e minhas experiências profissionais me levaram ao caminho de Web Developer.
 Gosto de usar a programação para estruturar e resolver problemas, sempre em busca de melhorar e aprender mais sobre a área.
 
