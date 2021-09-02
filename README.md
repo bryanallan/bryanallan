@@ -4,7 +4,7 @@
 Sou Bacharel em Ciência da Computação, e minhas experiências profissionais me levaram ao caminho de Web Developer.
 Gosto de usar a programação para estruturar e resolver problemas, sempre em busca de melhorar e aprender mais sobre a área.
 
-- 🔭 Estou trabalhando como Full Stack Developer
+- 🔭 Estou atuando no mercado como Web Developer Full Stack
 - 👯 Atualmente estou estudando Java, Spring e PHP, e buscando colaborar em projetos com essas tecnologias para aprender cada vez mais
 - 🤔 Posso te ajudar com tecnologias mais baixo nível: C, C++; assim como tecnologias mais presentes no mercado: PHP, Java e Javascript
 
