@@ -5,6 +5,5 @@
 - 👋 Bacharel em Ciência da Computação pela Universidade Federal do Tocantins
 - 🔭 Estou atuando no mercado como Web Developer Java
 - 👯 Atualmente estou estudando Java, JSF e Spring, e buscando colaborar em projetos com essas tecnologias para aprender cada vez mais
-- 🤔 Posso te ajudar com tecnologias mais baixo nível: C, C++; assim como tecnologias mais presentes no mercado: PHP, Java e Javascript
 
 - :email: Entre em contato comigo:  [![Gmail Badge](https://img.shields.io/badge/Gmail-bryanallan.h%40gmail.com-white)](mailto:bryanallan.h@gmail.com)  |  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbryan--allan%2F-white)](https://www.linkedin.com/in/bryan-allan/)
