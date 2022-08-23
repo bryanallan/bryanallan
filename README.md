@@ -28,9 +28,6 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Doctrine](https://img.shields.io/badge/-Doctrine-000?&logo=Doctrine)
 ![hibernate](https://img.shields.io/badge/Hibernate-000?&logo=hibernate)
-
-#### Steam
-![-Bryan](https://steam-stat.vercel.app/api?profileName=-Bryan)
 ![Primefaces](https://img.shields.io/badge/-Primefaces-000?&logo=Primefaces)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
