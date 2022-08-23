@@ -2,8 +2,6 @@
 
 [![Top Langs](https://github-readme-stats-rbcfndnsw-bryanallan.vercel.app/api/top-langs/?username=bryanallan&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile View](https://komarev.com/ghpvc/?username=bryanallan&color=58a6ff)
-
 - 👋 Bacharel em Ciência da Computação pela Universidade Federal do Tocantins
 - 🔭 Estou atuando no mercado como Web Developer Java
 - 👯 Atualmente estou estudando Java, JSF e Spring, e buscando colaborar em projetos com essas tecnologias para aprender cada vez mais
@@ -33,3 +31,5 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn)
 ![Json](https://img.shields.io/badge/-JSON-000?&logo=json)
+
+![Profile View](https://komarev.com/ghpvc/?username=bryanallan&color=58a6ff)
