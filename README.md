@@ -1,6 +1,6 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=bryanallan)](https://github.com/stats-organization/github-stats-extended)
-
-[![Top Langs](https://github-readme-stats-rbcfndnsw-bryanallan.vercel.app/api/top-langs/?username=bryanallan&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 - 👋 Bacharel em Ciência da Computação pela Universidade Federal do Tocantins
 - 🔭 Estou atuando no mercado como Web Developer Java
